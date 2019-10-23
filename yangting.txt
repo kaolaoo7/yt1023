@@ -1,8 +1,1 @@
 10,20,40,80,160
-aozhoulongxia,diwangxie,baimifan
-github
-linux
-dev add something
-master add other
-dev add other
-shoudongxinzeng
